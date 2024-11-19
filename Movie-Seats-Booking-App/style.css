@@ -1,1 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Slab:wght@100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: "Geist", sans-serif;
+}
+
+.movieselector {
+  padding: 5px 7px 5px 7px;
+  margin: 15px;
+}
+
+.Seat-selections {
+  list-style-type: none;
+  background-color:  #413839;
+  padding: 10px 12px 10px 12px;
+  height: auto;  
+  width: auto;
+  display: flex;
+  gap: 3px;
+
+}
+
+.container {
+  margin: 70px 20px;
+}
+
+.seat {
+  height: 12px;
+  width: 15px;
+  margin: 3px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: brown;
+}
+
+.screenrows {
+  display: flex;
+}
+
+.Not-Available {
+  display:flex;
+  background-color: grey;
+  height: 12px;
+  width: 15px;
+  margin: 3px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.Selected {
+  background-color: aquamarine;
+  height: 12px;
+  width: 15px;
+  margin: 3px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.seat, .Not-Available, .Selected {
+  display: inline-block;
+}
+
+.seat:not(.Not-Available):hover{
+  cursor:pointer;
+  transform: scale(1.4);
+}
+
 
