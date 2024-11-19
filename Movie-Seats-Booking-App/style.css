@@ -68,10 +68,6 @@ body {
   border-top-right-radius: 10px;
 }
 
-.seat, .Not-Available, .Selected {
-  display: inline-block;
-}
-
 .seat:not(.Not-Available):hover{
   cursor:pointer;
   transform: scale(1.4);
