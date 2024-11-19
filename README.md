@@ -5,3 +5,5 @@
 3) Hangman Game
 4) Lyrics Searching app
 5) Music Player
+
+## The features and specifications of the apps are given in their particular folder readme
