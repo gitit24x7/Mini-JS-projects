@@ -34,6 +34,7 @@ body {
 
 .container {
   margin: 70px 20px;
+  perspective: 1000px;
 }
 
 .seat {
@@ -47,6 +48,8 @@ body {
 
 .screenrows {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Not-Available {
@@ -57,6 +60,7 @@ body {
   margin: 3px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  cursor: not-allowed; /* to show the user that the seat can not be selected on hover */
 }
 
 .Selected {
@@ -73,4 +77,27 @@ body {
   transform: scale(1.4);
 }
 
+#movie{
+    appearance: none;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(20px); 
+    color: white;
+    border-radius:7px;
+    border:none;
+    box-shadow: 0 4px 6px rgba(255,255, 0,0.4);
+    padding:8px;
+    text-align:center;
+    margin: 5px;
+    text-style:bold;
+    transition: all 1s ease;
+}
 
+.screen{
+        background-color: #fff;
+        height: 70px;
+        width: 100%;
+        margin: 15px 0;
+        transform: rotateX(-45deg);
+        box-shadow: 0 3px 10px rgba(255, 255, 255, 0.8); 
+        
+}
