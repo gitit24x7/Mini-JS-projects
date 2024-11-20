@@ -2,7 +2,7 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
-<img src="https://github.com/gitit24x7/Mini-JS-projects/blob/main/Movie-Seats-Booking-App/project-image.png"></img>
+<img src="https://github.com/gitit24x7/Mini-JS-projects/blob/main/Movie-Seats-Booking-App/movieSeatbookinglayoutimage.jpg"></img>
 
 ## Project Specifications
 
