@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+button{
+    background-color: blueviolet;
+    margin: 5px;
+    padding: 17px;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 50px; 
+}
+
+input {
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+.reset{
+    width: 6rem;
+    height: 2.5rem;
+    font-size: 0.8rem;
+    padding: 12px 10px 12px 10px;
+    display: block;
+    margin: 15px auto; 
+}
+
