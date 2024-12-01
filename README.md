@@ -2,12 +2,12 @@
 #### This is a repo containing all the mini JS projects that I have worked on to learn more on the go
 1)<a href="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Movie-Seats-Booking-App"> Movie Booking interactive layout </a><br>
 2)<a href="https://github.com/gitit24x7/Mini-JS-projects/tree/main/counter%20app%20with%20a%20twist"> Counter app with a twist </a><br>
-3) Guess the number game
-4) Exchange calculator app
-5) Worded Hangman Game
-6) Lyrics Searching app
-7) Music Player
-8) Flippable Notes Card game 
+3) Guess the number game<br>
+4) Exchange calculator app<br>
+5) Worded Hangman Game<br>
+6) Lyrics Searching app<br>
+7) Music Player<br>
+8) Flippable Notes Card game<br>
 
  #### The features and specifications of the apps are given in their particular folder readme
 
