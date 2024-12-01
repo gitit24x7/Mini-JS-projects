@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color:rgb(0, 102, 246);
+}
+
+button{
+    background-color: tomato;
+    margin: 5px;
+    padding: 17px;
+    color: aliceblue;
+    border: none;
+    border-radius: 12px;
+    width: 200px;
+}
+
+form{
+    margin: 15px;
+    color: rgb(0, 102, 246);
+    font-size: 130%;
+}
+
+input{
+  padding: 12px 10px;
+  border-radius: 8px;
+  display:block;
+  margin: 15px auto;
+}
+
+button:hover {
+    background-color:darkviolet;
+    transform: scale(1.1);
+
+}
+
+.Newgame{
+    cursor: not-allowed;
+}
