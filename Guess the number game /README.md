@@ -1,5 +1,7 @@
 # Guess The Number Game
 
+## live link
+ https://guessnumero.netlify.app/
 
 ## Algorithm:
 - Save the random number using math.random and use math.round to make it a whole number rather than a fractional value
