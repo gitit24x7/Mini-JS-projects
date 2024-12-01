@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: black;
+    background-color:bisque;
 }
 
 h1{
@@ -26,6 +26,7 @@ form{
 input{
   padding: 12px 10px;
   border-radius: 8px;
+  width: 140px;
   display:block;
   margin: 15px auto;
 }
@@ -34,8 +35,4 @@ button:hover {
     background-color:darkviolet;
     transform: scale(1.1);
 
-}
-
-.Newgame{
-    cursor: not-allowed;
 }
