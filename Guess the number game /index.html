@@ -10,20 +10,20 @@
 <body>
     <h1>Guess the Number</h1>
 
-   <form> 
+   <form class="form"> 
     <label for = "Please Enter a Number">Enter a guess between 0 to 100</label>
-    <input class="inputValue" type="text" placeholder="Enter a number here"> 
+    <input class="inputValue" type="number" placeholder="Enter a number here" min="0" max="100" required />
+    <button  type = "submit" class = "submit">Submit</button>
+    <button  type = "button"  class = "Newgame"> New Game</button>
    </form> 
 
-    <button class="submit">Submit</button>
-    
-    <button class="Newgame">New Game</button>
-    
+   <p class = "results"></p>
+   <p class="guesses"> </p>
+
 <script src="script.js"></script> 
 
 </body>
 </html>
 
 
-
-
+ 
