@@ -17,7 +17,8 @@
  - Clearing the form inputs in the text field, we can either input an empty string or use the reset() method. 
  - Form accepts the input if we press enter (this is a default feature of form), this is why we chose to use a form rather than a button tag. 
  - any button.disable or .enable greys out the button in Javascript
- - 
+ - do not redeclare the random number with let or const inside the local scope of a function or any local scope, that does not use the globally defined randomnunmber value and hence it does not refresh
+- there is no button.enabled attribute, only the disabled attribute.
 
 
 # inspiration 
