@@ -5,12 +5,14 @@ const form = document.querySelector('.form')
 const result = document.querySelector('.results')
 const guesses = document.querySelector('.guesses')
 
+//Wrote this IIFE function so that the random number generated can not be accessed in the console easily
+function gameLogic(){
+
 //An array to store the input values and later show to the user with innerText (line 40 of the code)
 let guessesArray = []
 
 let randomnumber = Math.round(Math.random()*100)
 
-//Start Game button logic after one sumission, to refresh all the fields and values and disable itself 
 function newgamebtn(){
     newGame.addEventListener('click', ()=> {
         console.log('new game button is clicked')
@@ -64,4 +66,8 @@ newgamebtn();
 
 })
 
+//Start Game button logic after one sumission, to refresh all the fields and values and disable itself 
 
+}
+
+gameLogic();
