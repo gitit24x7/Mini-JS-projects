@@ -5,9 +5,6 @@ const form = document.querySelector('.form')
 const result = document.querySelector('.results')
 const guesses = document.querySelector('.guesses')
 
-
-
-
 //An array to store the input values and later show to the user with innerText (line 40 of the code)
 let guessesArray = []
 
