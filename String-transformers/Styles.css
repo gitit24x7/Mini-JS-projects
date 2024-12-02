@@ -1,1 +1,42 @@
 
+body{
+    background-color:darkseagreen;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    background-color: rgb(253, 212, 11);
+    border-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1{
+    color: white; 
+}
+
+.container .One,.two,.three,.Four,.Five,.Six,.Seven{
+    background-color: indianred;
+    font-size: 1.2rem;
+    margin: 1.5rem 0;
+    padding: 1.1rem;
+    position: relative;
+}
+
+label {
+    font-size: 0.70rem;
+    position: absolute;
+    left: 16px;
+    top:-6px;
+    background-color: black;
+    color:white;
+    padding: 0.25rem;
+}
+
