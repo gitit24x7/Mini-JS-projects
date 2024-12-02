@@ -1,6 +1,6 @@
 # String Transformers
 
-## Algorith
+## Algorithm
 
 ## Learnings 
 
