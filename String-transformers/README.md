@@ -42,6 +42,7 @@ For subsequent words:
 - slice(): Extracting substrings. Works on strings and arrays, creates a copy
 - split(): Breaking strings into arrays. Only works on strings, turns string into array. Uses a specific separator (like a space) 
 - splice(): Modifying arrays dynamically. Only works on arrays, modifies the original array
+- join(separator) : The method returns a single string that is created by concatenating all the elements of the array, with the specified separator between them. By default, if no separator is provided, the elements are separated by a comma (,) 
 
 
 
