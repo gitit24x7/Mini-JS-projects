@@ -33,8 +33,8 @@ For subsequent words:
  - we can write the capitalizefirstletter function like this: 
  -  return str[0].toUpperCase()+ str.slice(1,str.length)  also below can be used
  -  return str.charAt(0).toUpperCase() + str.slice(1);  
+---> Here, str.slice(1) takes everything from the second character to the end, which is then combined with the capitalized first letter.
 
- - 
 ## Learnings 
 - Splice method
 - split method
