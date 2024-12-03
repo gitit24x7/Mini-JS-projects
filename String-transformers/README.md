@@ -46,3 +46,7 @@ For subsequent words:
 
 
 ## Inspiration 
+
+This project was the second project of the frontend mini challenges by Sadanand Pai
+
+https://sadanandpai.github.io/frontend-mini-challenges/#/javascript
