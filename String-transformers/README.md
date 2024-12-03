@@ -31,8 +31,8 @@ For subsequent words:
 
 ## Notes: 
  - we can write the capitalizefirstletter function like this: 
- return str[0].toUpperCase()+ str.slice(1,str.length) OR 
- return str.charAt(0).toUpperCase() + str.slice(1);  
+ -  return str[0].toUpperCase()+ str.slice(1,str.length)  also below can be used
+ -  return str.charAt(0).toUpperCase() + str.slice(1);  
 
  - 
 ## Learnings 
