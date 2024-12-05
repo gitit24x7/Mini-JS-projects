@@ -6,12 +6,12 @@
 4)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/String-transformers">String Transformers </a><br>
 5)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/light-dark%20theme%20with%20local%20storage">Light/dark theme toggle<a/><br>
 6)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Meals%20Finder">Meals Finder<a/><br>
-7)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Current%20Weather%20App"> Current Weather App </a> <br>  
-6) Exchange calculator app <br>
-7) Worded Hangman Game <br>
-8) Lyrics Searching app <br>
-9) Music Player <br>
-10) Flippable Notes Card game <br>
+7)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Current%20Weather%20App"> Current Weather App</a><br>  
+8) Exchange calculator app<br>
+9) Worded Hangman Game<br>
+10) Lyrics Searching app<br>
+11) Music Player<br>
+12) Flippable Notes Card game<br>
 
  #### The features and specifications of the apps are given in their particular folder readme
 
