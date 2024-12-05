@@ -4,7 +4,7 @@
 2)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/counter%20app%20with%20a%20twist"> Counter app with a twist </a><br>
 3)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Guess%20the%20number%20game%20"> Guess the number game </a> <br>
 4)<a href =" ">String Transformers </a><br>
-5)<a href =" ">Light/dark theme toggle<a/><br>
+5)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/light-dark%20theme%20with%20local%20storage">Light/dark theme toggle<a/><br>
 6)<a href =" ">Meals Finder<a/><br>
 6) Exchange calculator app <br>
 7) Worded Hangman Game <br>
