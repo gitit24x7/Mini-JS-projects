@@ -19,6 +19,11 @@ body{
     margin:0;
 }
 
+marquee {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
 main{
     width: 300px;
     height: max-content;
@@ -60,3 +65,41 @@ h1{
 #search:hover{
     transform: scale(1.8);
 }
+
+.weather-op{
+    text-align: center;
+    padding: 10px;
+}
+
+.weather-op .temperature .temperaturevalue{
+    color: goldenrod;
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+main .city{
+    margin: 10px;
+    color: goldenrod;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.weatherdescription .description{
+    color:cornflowerblue;
+    font-size: large;
+    font-weight: 500;
+}
+
+footer{
+    text-align: center;
+    margin-top: 700px;
+    padding: 30px 40px 30px 40px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    position:absolute;
+}
+
