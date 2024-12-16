@@ -6,8 +6,8 @@
 4)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/String-transformers">String Transformers </a><br>
 5)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/light-dark%20theme%20with%20local%20storage">Light/dark theme toggle<a/><br>
 6)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Meals%20Finder">Meals Finder<a/><br>
-7)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Current%20Weather%20App"> Current Weather App</a><br>  
-8)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Type%20Racer%20Game"> Type Racer Game</a><br>  
+7)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Current%20Weather%20App">Current Weather App</a><br>  
+8)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Type%20Racer%20Game">Type Racer Game</a><br>  
 9) Exchange calculator app<br>
 10) Worded Hangman Game<br>
 11) Lyrics Searching app<br>
