@@ -7,6 +7,7 @@
 5)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/light-dark%20theme%20with%20local%20storage">Light/dark theme toggle<a/><br>
 6)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Meals%20Finder">Meals Finder<a/><br>
 7)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Current%20Weather%20App"> Current Weather App</a><br>  
+8)<a href ="https://github.com/gitit24x7/Mini-JS-projects/tree/main/Current%20Weather%20App"> Type Racer Game</a><br>  
 8) Exchange calculator app<br>
 9) Worded Hangman Game<br>
 10) Lyrics Searching app<br>
