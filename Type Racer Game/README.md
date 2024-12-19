@@ -21,8 +21,8 @@ Here’s the full **what** and **why** breakdown of each section in your Speed T
 ### **1. Initialize Game State**
 
 #### **What:**
-- Select important DOM elements such as the word container (`.word`), score (`.score`), time counter (`.time`), input field (`.value`), and game over section (`.gameover`).
-- Initialize variables like `randomWord`, `score`, `timer`, and `gameOverFlag`.
+- Select important DOM elements such as the word container (`.word`), score (`.score`), time counter (`.time`), input field (`.value`). 
+- Initialize variables like `randomWord`, `score`, `timer`
 
 #### **Why:**
 - These initializations are crucial to set up the game environment. The DOM elements need to be accessed for updating the game state (showing words, scores, time), and variables maintain the state of the game (current word, score, and timer).
