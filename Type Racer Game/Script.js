@@ -40,6 +40,7 @@ function startGame(){
     inputValue.focus();
     
     //Starting the timer to be reduced
+    //This line sets up a timer that repeatedly calls the updateTime function every 1000 milliseconds
     const timeInterval = setInterval(updateTime,1000)
     
     function updateTime(){
@@ -220,4 +221,3 @@ if (timer < 0) {
 });
 
 startGame();
-
