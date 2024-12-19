@@ -1,4 +1,8 @@
 ## Type Racer Game
+
+<img src="https://github.com/gitit24x7/Mini-JS-projects/blob/main/Type%20Racer%20Game/typeraces.jpg">
+
+
 When user comes on to the page, the game timer starts, user can enter the words and till the time the input value is correct it is not shown in black. 
 User can choose difficulty which persists when the page is refreshed as well. The target is to type 100 words in 60 seconds. 
 
