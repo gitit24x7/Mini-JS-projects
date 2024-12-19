@@ -55,15 +55,7 @@ select{
     font-size:xxx-large;
 }
 
-footer{
-    text-align: center;
-    margin-top: 700px;
-    padding: 30px 40px 30px 40px;
-    background-color:grey;
-    color: white;
-    width: 100%;
-    position:absolute;
-}
+
 fa-gear{
     display:block;
 }
@@ -71,9 +63,63 @@ fa-gear{
 .difficulty{
     background-color: grey;
     width: 390%;
-    height:80px;
+    height:50px;
     text-align:center;
     font-size: x-large;
     padding-top: 38px;
     color:whitesmoke;
+    margin-bottom:100px ;
+    padding-bottom: 0px;
+}
+
+.score{
+    position: absolute;
+    top: 350px;
+    right: 350px;
+}
+
+.time{
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+
+footer { 
+    text-align: center;
+    margin-top: 800px;
+    padding: 20px 30px 20px 30px;
+    background-color:rgb(77, 149, 250);
+    color: white;
+    width: 100%;
+    position:absolute;
+    margin-bottom: 0px;
+}
+.word{
+    color: white;
+}
+
+.difficulty{
+    position: absolute;
+    top: 2px;
+}
+
+.incorrect{
+    color: red;
+}
+
+footer p{
+    margin-top: 0;
+    height: fit-content;
+}
+
+.playagain{
+     visibility: hidden;
+}
+
+fa-github{
+    font-size: x-large;
+}
+
+.reload{
+    visibility: hidden; 
 }
