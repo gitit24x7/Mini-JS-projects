@@ -145,7 +145,7 @@ const words = [
 
 let randomWord;
 let score = 0;
-let timer = 10;
+let timer = 60;
 //focus on inputvalue at the start when we come to the page
 inputValue.focus();
 
@@ -200,6 +200,7 @@ inputValue.addEventListener('input',e => {
     e.target.classList.add('incorrect');
 
 })
+
 function updateScore() { 
     score++;
     scores.innerHTML = score;
