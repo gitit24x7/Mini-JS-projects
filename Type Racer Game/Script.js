@@ -35,7 +35,7 @@ function startGame(){
     
     let randomWord;
     let score = 0;
-    let timer = 10;
+    let timer = 60;
     //focus on inputvalue at the start when we come to the page
     inputValue.focus();
     
@@ -96,12 +96,19 @@ function startGame(){
     
     difficulty.addEventListener('change', e => {
       const  selectedDifficulty = e.target.value;
-      if (selectedDifficulty === 'Easy') {
-        timer += 10; //for easy
-    } else if (selectedDifficulty === 'Hard') {
-        timer = 10; //for hard
+      switch(selectedDifficulty) {
+        case 'Easy':
+            timer = 70;  // 70 seconds for easy
+            break;
+        case 'Medium':
+            timer = 60;  // 60 seconds for medium
+            break;
+        case 'Hard':
+            timer = 40;  // 40 seconds for hard
+            break;
+        default:
+            timer = 60;  // default to medium if something goes wrong
     }
-    
     // Update the time left in the DOM
     timercounter.innerHTML = timer + 's';
     //disabling so that the user can not change the difficulty in the same game session
@@ -193,31 +200,8 @@ inputValue.addEventListener('input',e => {
     e.target.classList.add('incorrect');
 
 })
-
 function updateScore() { 
     score++;
     scores.innerHTML = score;
 }
-
-//Selecting difficulty
-
-difficulty.addEventListener('change', e => {
-  const  selectedDifficulty = e.target.value;
-  if (selectedDifficulty === 'Easy') {
-    timer += 10; //for easy
-} else if (selectedDifficulty === 'Hard') {
-    timer = 10; //for hard
-}
-
-// Update the time left in the DOM
-timercounter.innerHTML = timer + 's';
-//disabling so that the user can not change the difficulty in the same game session
-document.querySelector(".difficulty").disabled = true;
-// If the timer is below 0 (e.g., after subtracting for Hard), make sure it doesn't go negative
-if (timer < 0) {
-    timer = 0;
-    timercounter.innerHTML = timer + 's';
-}
-});
-
 startGame();
