@@ -1,6 +1,6 @@
 ## Type Racer Game
 
-### Live link: <a href="quickfingers.netlify.app">quickfingers.netlify.app</a>
+### Live link: <a href="https://quickfingers.netlify.app">quickfingers.netlify.app</a>
 
 <img src="https://github.com/gitit24x7/Mini-JS-projects/blob/main/Type%20Racer%20Game/typeraces.jpg">
 
