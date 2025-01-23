@@ -1,6 +1,6 @@
 ## Current Weather APP
 
-Live link: <a href="tapmaanapp.netlify.app">tapmaanapp.netlify.app</a>
+Live link: <a href="https://taapmaancheck.netlify.app">https://taapmaancheck.netlify.app/</a>
 
 ### Learnings
 
